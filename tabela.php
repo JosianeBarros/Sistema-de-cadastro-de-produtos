@@ -1,7 +1,7 @@
 <?php
 include "db.php";
 
-// Exibir os produtos
+// Exibi os produtos
 $selectProdutos = "SELECT * FROM produtos";
 $queryProdutos = $connection->query($selectProdutos);
 
