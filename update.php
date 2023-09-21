@@ -1,7 +1,7 @@
 <?php
 include "db.php";
 
-// Atualizar os produtos
+// Atualiza os produtos
 if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST["id"])){
     $id = $_POST["id"];
     $nome = $_POST["nome"];
