@@ -4,7 +4,7 @@ Este é um sistema de cadastro de produtos feito para funcionar em um navegador 
 # Requisitos
 Ter o XAMPP instalado.
 
-# Como instalar
+# Instalação
 Para instalar esse projeto você pode clonar o repositório:
 
 ```
