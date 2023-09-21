@@ -23,4 +23,6 @@ CREATE TABLE produtos (
 ```
 
 # Imagens
-(Será adicionado em breve)
+![image](https://github.com/JosianeBarros/Sistema-de-cadastro-de-produtos/assets/108816336/c06e8315-9a00-4588-988a-f9960bc25be0)
+
+![image](https://github.com/JosianeBarros/Sistema-de-cadastro-de-produtos/assets/108816336/835d10bb-8162-4fa1-a088-45bd60d9f961)
