@@ -31,4 +31,5 @@ function exibirProdutos(){
     }
 }
 
+$connection->close();
 ?>
