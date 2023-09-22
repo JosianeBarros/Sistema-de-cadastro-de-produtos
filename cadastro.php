@@ -14,4 +14,5 @@ $url = "index.php";
 
 header('Location: '.$url);
 
+$connection->close();
 ?>
