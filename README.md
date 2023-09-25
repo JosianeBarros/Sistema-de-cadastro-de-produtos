@@ -1,6 +1,8 @@
 # Sistema de cadastro de produtos
 Este é um sistema de cadastro de produtos feito para funcionar em um navegador web. Ele foi feito usando HTML, CSS, JavaScript, PHP e o MySQL como banco de dados.
 
+Artigo onde eu explico o processo de criação do sistema: [Criando sistema de cadastro de produtos com PHP e MySQL](https://medium.com/@josianebarros/criando-sistema-de-cadastro-de-produtos-com-php-e-mysql-462f3e99be66)
+
 # Requisitos
 Ter o XAMPP instalado.
 
